@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cshields1
-- 👀 I'm new to web development after ten years of making my living with music in various ways: teaching, performing, and accompanying live dance classes.
-- 🌱 I’m currently making my way through The Odin Project and doing freelance development work.
+Hi! I'm Craig, a musician-turned-developer based in Orange County, CA.
+
+Currently freelancing for a digital agency in LA and working primarily with React/Next.
 
 <!---
 cshields1/cshields1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
