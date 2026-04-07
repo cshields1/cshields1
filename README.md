@@ -1,4 +1,4 @@
-Hello! I'm Craig, a musician-turned-web-developer based in Orange County, CA who's been building performant, accessible, responsive websites for over three years.
+Hello! I'm Craig, an Orange County-based developer who's been building performant, accessible, responsive websites for over five years.
 
 Before that, I spent 10+ years as a freelance musician and improviser making music for dance (technique classes and choreographic pieces) and playing in the Latin alt-folk band Cuñao. Now, I make websites (mainly with React/Next.js) and enjoy it just as creatively.
 
